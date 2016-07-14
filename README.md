@@ -1,5 +1,5 @@
 # weather
-This project is used in the Treehouse workshop on Unit Testing a Spring App. The application is a Spring web app that uses two Google APIs and the forecast.io API.
+This project is used in the Treehouse workshop on Deploying a Spring Application. The application is a Spring web app that uses two Google APIs and the forecast.io API.
 
 ## Getting Your API Keys
 In order to use this application, you'll need to get a couple API keys. Here's how.
@@ -15,9 +15,3 @@ At this point you need to enable the Geocoding and Places API, so that your API 
   - Google Maps Geocoding API, and
   - Google Places API Web Service
 
-## Tags
-This repository is tagged for the beginning of videos to help you follow progress through the workshop. Use the `git checkout` command to update your code. For example, to update your local repository to match the workshop code at the beginning of *Video 4*, use
-
-`git checkout -f v4`
-
-Keep in mind that this will overwrite any local changes you've made since your last checkout or commit.
